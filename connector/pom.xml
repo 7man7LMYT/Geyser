@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.geysermc</groupId>
         <artifactId>geyser-parent</artifactId>
-        <version>1.2.0-SNAPSHOT</version>
+        <version>5.9.6-BETA</version>
     </parent>
     <artifactId>connector</artifactId>
 
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>org.geysermc</groupId>
             <artifactId>common</artifactId>
-            <version>1.2.0-SNAPSHOT</version>
+            <version>5.9.6-BETA</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
