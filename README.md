@@ -38,6 +38,7 @@ Take a look [here](https://github.com/GeyserMC/Geyser/wiki#Setup) for how to set
 - Near-perfect movement (to the point where anticheat on large servers is unlikely to ban you)
 - Resource pack conversion/CustomModelData
 - Some Entity Flags
+
 - The Following Inventories 
   - Enchantment Table (as a proper GUI)
   - Beacon
@@ -55,6 +56,7 @@ The following things can't be fixed because of Bedrock limitations. They might b
 - Custom heads in inventories
 - Clickable links in chat
 - Glowing effect
+- Custom armor stand poses
 
 ## Compiling
 1. Clone the repo to your computer
